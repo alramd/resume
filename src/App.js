@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -7,7 +6,7 @@ function App() {
       <div>
         <h1>Under construction</h1>
         <p>Expected completetion date: 31/01/23</p>
-        <a href="https://github.com/alramd/resume" target="_blank">GitHub Repository</a>
+        <a href="https://github.com/alramd/resume">GitHub Repository</a>
       </div>
     </div>
   );

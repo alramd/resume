@@ -1,5 +1,4 @@
-# Page Designs
-## Home
+## Home Page
 ### on load
 ![Home - Start](design_images/Home%20-%20Start.png "Home page - initial load")
 ### projects section
